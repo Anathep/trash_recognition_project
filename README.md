@@ -1,0 +1,1 @@
+# trash_recognition_project
