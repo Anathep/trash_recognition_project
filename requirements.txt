@@ -7,3 +7,8 @@ matplotlib
 seaborn
 graphviz
 Cython
+split-folders
+tensorflow
+keras
+scikit-learn
+kagglehub
